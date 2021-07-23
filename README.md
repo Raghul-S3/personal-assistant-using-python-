@@ -10,4 +10,6 @@ To make this project working install the following commands in the terminals
                          *pip install PyAudio
    
 #important!!!! any python version under 3.7 will work fine. (some packages like PyAudio wont work properly in higher versions.) Python 3.6 version is recommended
+![ais](https://user-images.githubusercontent.com/76128118/126762797-28294a56-98dd-4d61-918a-ef6d4e92c832.jpg)
+
                          
