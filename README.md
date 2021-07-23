@@ -8,4 +8,6 @@ To make this project working install the following commands in the terminals
                          *pip install wikipedia
                          *pip install pyjokes
                          *pip install PyAudio
+   
+#important!!!! any python version under 3.7 will work fine. (some packages like PyAudio wont work properly in higher versions. Python 3.6 version is recommended
                          
